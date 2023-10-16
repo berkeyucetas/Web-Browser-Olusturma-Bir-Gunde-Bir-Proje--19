@@ -1,0 +1,11 @@
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Web Browser Oluşturma\Web Browser Oluşturma\obj\Debug\Web Browser Oluşturma.csproj.AssemblyReference.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Web Browser Oluşturma\Web Browser Oluşturma\obj\Debug\Web Browser Oluşturma.csproj.SuggestedBindingRedirects.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Web Browser Oluşturma\Web Browser Oluşturma\obj\Debug\Web_Browser_Oluşturma.Form1.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Web Browser Oluşturma\Web Browser Oluşturma\obj\Debug\Web_Browser_Oluşturma.Properties.Resources.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Web Browser Oluşturma\Web Browser Oluşturma\obj\Debug\Web Browser Oluşturma.csproj.GenerateResource.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Web Browser Oluşturma\Web Browser Oluşturma\obj\Debug\Web Browser Oluşturma.csproj.CoreCompileInputs.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Web Browser Oluşturma\Web Browser Oluşturma\bin\Debug\Web Browser Oluşturma.exe.config
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Web Browser Oluşturma\Web Browser Oluşturma\bin\Debug\Web Browser Oluşturma.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Web Browser Oluşturma\Web Browser Oluşturma\bin\Debug\Web Browser Oluşturma.pdb
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Web Browser Oluşturma\Web Browser Oluşturma\obj\Debug\Web Browser Oluşturma.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Web Browser Oluşturma\Web Browser Oluşturma\obj\Debug\Web Browser Oluşturma.pdb
